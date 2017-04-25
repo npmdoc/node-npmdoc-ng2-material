@@ -1,4 +1,7 @@
-# api documentation for  [ng2-material (v0.8.1)](https://github.com/justindujardin/ng2-material#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng2-material.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng2-material) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng2-material.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng2-material)
+# npmdoc-ng2-material
+
+#### basic api documentation for  [ng2-material (v0.8.1)](https://github.com/justindujardin/ng2-material#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng2-material.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng2-material) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng2-material.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng2-material)
+
 #### ng2-material --- [![Build Status](https://travis-ci.org/justindujardin/ng2-material.svg?branch=master)](https://travis-ci.org/justindujardin/ng2-material) [![npm version](https://badge.fury.io/js/ng2-material.svg)](http://badge.fury.io/js/ng2-material)
 
 [![NPM](https://nodei.co/npm/ng2-material.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng2-material)
@@ -196,7 +199,8 @@
         "test": "grunt karma"
     },
     "typings": "./index.d.ts",
-    "version": "0.8.1"
+    "version": "0.8.1",
+    "bin": {}
 }
 ```
 
